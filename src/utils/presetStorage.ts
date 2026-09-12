@@ -68,6 +68,7 @@ export const DEFAULT_PRESETS: SavedPreset[] = [
       },
       modalStrategy: 'ai',
     },
+  },
   {
     id: 'builtin_puff',
     name: 'Puff 即时对话预设',
